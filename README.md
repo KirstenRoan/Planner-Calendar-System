@@ -1,9 +1,8 @@
-Kirsten's Portfolio
+KIRSTEN'S PORTFOLIO
 
 Welcome to my portfolio! This README will guide you through the structure of my website and provide details about the dependencies used to create it.
 
-Portfolio Overview
-
+>> Portfolio Overview
 My portfolio is designed to showcase my skills, projects, and experiences as a Computer Science student. Below is an outline of how to explore the different sections of the portfolio:
 
 >> Homepage
@@ -19,7 +18,6 @@ At the top of the page, you'll find a navigation bar. Use it to easily navigate 
 - Contact: Find ways to get in touch with me via email and view my GitHub profile.
 
 >> Dependencies Used
-
 Google Fonts (Poppins): Used for clean, modern typography to enhance the overall readability of the site. 
   - [Poppins font on Google Fonts](https://fonts.google.com/specimen/Poppins)
   
