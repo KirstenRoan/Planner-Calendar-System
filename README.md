@@ -32,11 +32,9 @@ CSS Styles: My code includes a <style> section within the HTML document, which c
 
 >> Contact Information
 
-Feel free to reach out to me through:
+Feel free to reach out to me through email and github links provided.
 
-Email: 24-06924@g.batstate-u.edu.ph
-GitHub: github.com/KirstenRoan
 
 Thank you for visiting my portfolio!
 
-Created by Kirsten Roan A. Dumlao
+Created by Kirsten Roan Dumlao
